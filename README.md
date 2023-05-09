@@ -5,10 +5,11 @@ This repository contains a collection of the most important algorithms along wit
 * Bitwise
 * Dynamic Programming
 * Tree and Graph 
+* Heaps
+* Linked List
 * Sorting and Searching (comming soon)
 * String and Array (comming soon)
-* Heaps (comming soon)
-* Linked List (comming soon)
+
 
 Each algorithm is implemented in Python and includes a detailed explanation of its time and space complexity.
 

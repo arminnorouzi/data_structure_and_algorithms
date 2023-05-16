@@ -2,13 +2,13 @@
 
 This repository contains a collection of the most important algorithms along with Python implementation that all software engineers should know. The algorithms are organized into the following categories:
 
-- Bitwise
-- Dynamic Programming
-- Tree and Graph
-- Heaps
-- Linked List
-- Sorting and Searching
-- String and Array
+- L01: Bitwise operations
+- L02: String and Array
+- L03: Tree and Graph
+- L04: Linked List
+- L05: Heaps
+- L06: Sorting and Searching
+- L07: Dynamic Programming
 
 Each algorithm is implemented in Python and includes a detailed explanation of its time and space complexity.
 
